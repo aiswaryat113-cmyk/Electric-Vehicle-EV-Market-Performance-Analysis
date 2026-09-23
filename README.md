@@ -69,6 +69,14 @@ Technical correlations
 EV model benchmarking
 
 
+<img width="1901" height="1040" alt="EV DASHBOARD 1" src="https://github.com/user-attachments/assets/ffad710e-c796-455c-af00-15afc1303bff" />
+
+<img width="1820" height="1001" alt="EV DASHBOARD 2" src="https://github.com/user-attachments/assets/42f22e33-8a56-4be4-bd6c-fbd4abecfee8" />
+
+<img width="1418" height="746" alt="PBI - Dashboard" src="https://github.com/user-attachments/assets/c413b56d-34fb-42f6-b1e6-b5ee474084c2" />
+
+
+
 **Maintainer & Contributors**
 
 **Maintainer**
